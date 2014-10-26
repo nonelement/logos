@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="197.07867"
-   height="220.92107"
+   width="251.07867"
+   height="244.92107"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="nonelement_o_src.svg"
-   inkscape:export-filename="/home/nelem/Documents/logo/nonelement_n_src.png"
+   sodipodi:docname="nonelement_d.svg"
+   inkscape:export-filename="/home/nelem/Documents/logo/nonelement_o_src.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600">
   <defs
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2753757"
-     inkscape:cx="138.49075"
-     inkscape:cy="78.568576"
+     inkscape:cx="27.884244"
+     inkscape:cy="90.568573"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,10 +46,10 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showborder="true"
-     fit-margin-top="3"
-     fit-margin-left="3"
-     fit-margin-right="3"
-     fit-margin-bottom="3"
+     fit-margin-top="15"
+     fit-margin-left="30"
+     fit-margin-right="30"
+     fit-margin-bottom="15"
      inkscape:object-paths="true"
      inkscape:snap-smooth-nodes="false"
      inkscape:snap-intersection-paths="false" />
@@ -69,9 +69,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-239.13459,168.92052)">
+     transform="translate(-212.13459,180.92052)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:6.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 323.12139,-51.24538 -59.86476,34.562914"
        id="path3044-4-27-1-8-0-3"
        inkscape:connector-curvature="0" />
@@ -86,7 +86,7 @@
        sodipodi:ry="29.7995"
        d="m 192.93913,367.98383 c 0,16.4578 -13.34169,29.7995 -29.7995,29.7995 -16.45781,0 -29.7995,-13.3417 -29.7995,-29.7995 0,-16.45781 13.34169,-29.7995 29.7995,-29.7995 16.45781,0 29.7995,13.34169 29.7995,29.7995 z" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="M 298.27031,-126.70906 377.07753,9.789071"
        id="path3044-4-27-4-3-4"
        inkscape:connector-curvature="0" />
